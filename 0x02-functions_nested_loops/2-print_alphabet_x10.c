@@ -1,7 +1,11 @@
 #include "main.h"
 
 /**
- * print_alpgabet_x10 - function that will print the alphabet 10 times 
+ *main - Entry point
+ *
+ * Description: prints _putchar using putcher
+ *
+ * print_alpgabet_x10 - function that will print the alphabet 10 times
  *
 */
 
