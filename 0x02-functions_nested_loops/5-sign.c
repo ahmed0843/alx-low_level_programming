@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 
 /**
  * print_sing - print + if n is greater than zero.
