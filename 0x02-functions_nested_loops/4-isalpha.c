@@ -2,7 +2,7 @@
 
 /**
  * _isalpha - checks if character is a letter
- * 		both lowercase or uppwecase
+ *		both lowercase or uppwecase
  *
  * @c: takes input from other functions.
  *
