@@ -6,7 +6,7 @@
  *		than zero.
  * @n: takes integer type input for function.
  *
- * Ruter:1 if +, 0 if 0 and -1 if -
+ * Rutern:1 if +, 0 if 0 and -1 if -
 */
 
 int print_sing(int n)
