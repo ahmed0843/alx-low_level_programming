@@ -2,7 +2,7 @@
 
 /**
  * _abs - function that cpmputes the absolute
- * 		value of an integer
+ *		value of an integer
  *
  * @n: takes in integer type input for function
  *
