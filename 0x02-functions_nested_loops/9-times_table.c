@@ -1,4 +1,4 @@
-#include "main.h"
+i#include "main.h"
 
 /**
  * times_table - prints the 9 times table
@@ -21,7 +21,7 @@ void times_table(void)
 
 			prod = num * mult;
 
-			/**
+			/*
 			 * put space if product is a single number
 			 * place the first digit if its two numbers 
 			*/
