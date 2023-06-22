@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 
 /**
  * times_table - prints the 9 times table
@@ -16,6 +16,7 @@ void times_table(void)
 	{
 		_putchar(48);
 		for (mult = 1; mult <= 9; mult++)
+
 			_putchar(',');
 			_putchar(' ');
 
@@ -23,7 +24,7 @@ void times_table(void)
 
 			/*
 			 * put space if product is a single number
-			 * place the first digit if its two numbers 
+			 * place the first digit if its two numbers
 			*/
 			if (prod <= 9)
 				_putchar(' ');
