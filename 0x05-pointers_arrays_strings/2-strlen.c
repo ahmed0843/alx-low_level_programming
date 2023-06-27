@@ -5,6 +5,8 @@
  *
  * @s: string parameter input
  *
+ *Description: return the lenght of string 
+ *
  * Return: lenght of string
 */
 
